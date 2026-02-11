@@ -1,0 +1,5 @@
+[] Add To_string to every class
+[] Add "display" method for the Board class
+[] implement a methode in Piece to move an instance of Piece
+[] Make a class Player
+[] Make a class Game
